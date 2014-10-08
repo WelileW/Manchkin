@@ -1,0 +1,78 @@
+.Instance.ranged.sprite {
+    display:inline-block;
+    overflow:hidden;
+    background:url(rangedInstance.png) no-repeat;
+    width:180px;
+    height:280px;
+}
+
+    .Instance.ranged.card00 { background-position: -2px -2px}
+    .Instance.ranged.card01 { background-position: -2px -284px}
+    .Instance.ranged.card02 { background-position: -2px -566px}
+    .Instance.ranged.card03 { background-position: -2px -848px}
+    .Instance.ranged.card04 { background-position: -2px -1130px}
+    .Instance.ranged.card05 { background-position: -2px -1412px}
+    .Instance.ranged.card06 { background-position: -2px -1694px}
+    .Instance.ranged.card07 { background-position: -184px -2px}
+    .Instance.ranged.card08 { background-position: -366px -2px}
+    .Instance.ranged.card09 { background-position: -548px -2px}
+    .Instance.ranged.card10 { background-position: -730px -2px}
+    .Instance.ranged.card11 { background-position: -912px -2px}
+    .Instance.ranged.card12 { background-position: -1094px -2px}
+    .Instance.ranged.card13 { background-position: -1276px -2px}
+    .Instance.ranged.card14 { background-position: -1458px -2px}
+    .Instance.ranged.card15 { background-position: -1640px -2px}
+    .Instance.ranged.card16 { background-position: -184px -284px}
+    .Instance.ranged.card17 { background-position: -184px -566px}
+    .Instance.ranged.card18 { background-position: -184px -848px}
+    .Instance.ranged.card19 { background-position: -184px -1130px}
+    .Instance.ranged.card20 { background-position: -184px -1412px}
+    .Instance.ranged.card21 { background-position: -184px -1694px}
+    .Instance.ranged.card22 { background-position: -366px -284px}
+    .Instance.ranged.card23 { background-position: -548px -284px}
+    .Instance.ranged.card24 { background-position: -730px -284px}
+    .Instance.ranged.card25 { background-position: -912px -284px}
+    .Instance.ranged.card26 { background-position: -1094px -284px}
+    .Instance.ranged.card27 { background-position: -1276px -284px}
+    .Instance.ranged.card28 { background-position: -1458px -284px}
+    .Instance.ranged.card29 { background-position: -1640px -284px}
+    .Instance.ranged.card30 { background-position: -366px -566px}
+    .Instance.ranged.card31 { background-position: -366px -848px}
+    .Instance.ranged.card32 { background-position: -366px -1130px}
+    .Instance.ranged.card33 { background-position: -366px -1412px}
+    .Instance.ranged.card34 { background-position: -366px -1694px}
+    .Instance.ranged.card35 { background-position: -548px -566px}
+    .Instance.ranged.card36 { background-position: -548px -848px}
+    .Instance.ranged.card37 { background-position: -548px -1130px}
+    .Instance.ranged.card38 { background-position: -548px -1412px}
+    .Instance.ranged.card39 { background-position: -548px -1694px}
+    .Instance.ranged.card40 { background-position: -730px -566px}
+    .Instance.ranged.card41 { background-position: -912px -566px}
+    .Instance.ranged.card42 { background-position: -1094px -566px}
+    .Instance.ranged.card43 { background-position: -1276px -566px}
+    .Instance.ranged.card44 { background-position: -1458px -566px}
+    .Instance.ranged.card45 { background-position: -1640px -566px}
+    .Instance.ranged.card46 { background-position: -730px -848px}
+    .Instance.ranged.card47 { background-position: -730px -1130px}
+    .Instance.ranged.card48 { background-position: -730px -1412px}
+    .Instance.ranged.card49 { background-position: -730px -1694px}
+    .Instance.ranged.card50 { background-position: -912px -848px}
+    .Instance.ranged.card51 { background-position: -1094px -848px}
+    .Instance.ranged.card52 { background-position: -1276px -848px}
+    .Instance.ranged.card53 { background-position: -1458px -848px}
+    .Instance.ranged.card54 { background-position: -1640px -848px}
+    .Instance.ranged.card55 { background-position: -912px -1130px}
+    .Instance.ranged.card56 { background-position: -912px -1412px}
+    .Instance.ranged.card57 { background-position: -912px -1694px}
+    .Instance.ranged.card58 { background-position: -1094px -1130px}
+    .Instance.ranged.card59 { background-position: -1094px -1412px}
+    .Instance.ranged.card60 { background-position: -1094px -1694px}
+    .Instance.ranged.card61 { background-position: -1276px -1130px}
+    .Instance.ranged.card62 { background-position: -1458px -1130px}
+    .Instance.ranged.card63 { background-position: -1640px -1130px}
+    .Instance.ranged.card64 { background-position: -1276px -1412px}
+    .Instance.ranged.card65 { background-position: -1276px -1694px}
+    .Instance.ranged.card66 { background-position: -1458px -1412px}
+    .Instance.ranged.card67 { background-position: -1458px -1694px}
+    .Instance.ranged.card68 { background-position: -1640px -1412px}
+    .Instance.ranged.card69 { background-position: -1640px -1694px}

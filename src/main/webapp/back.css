@@ -1,0 +1,43 @@
+/*Этот ад классов нужен чтобы перебить силу классов обычной карты*/
+#d6{
+    overflow:hidden;
+    background: url(back.png) -388px -6px  no-repeat;
+    width: 25px;
+    height: 28px;
+}
+
+.sprite.Instance.backInstance.axe,
+.sprite.Instance.backInstance.classic,
+.sprite.Instance.backInstance.cleric,
+.sprite.Instance.backInstance.nfs,
+.sprite.Instance.backInstance.cheat,
+.sprite.Instance.backInstance.ranged{
+    overflow:hidden;
+    background: url(back.png) -6px -6px  no-repeat;
+    width:180px;
+    height:280px;
+ }
+.sprite.Treasure.backTreasure.axe,
+.sprite.Treasure.backTreasure.classic,
+.sprite.Treasure.backTreasure.cleric,
+.sprite.Treasure.backTreasure.nfs,
+.sprite.Treasure.backTreasure.cheat,
+.sprite.Treasure.backTreasure.ranged{
+    overflow:hidden;
+    background: url(back.png) -200px -6px no-repeat;
+    width:180px;
+    height:280px;
+}
+
+.backInstance {
+    overflow:hidden;
+    background: url(back.png) -6px -6px  no-repeat;
+    width:180px;
+    height:280px;
+}
+.backTreasure {
+    overflow:hidden;
+    background: url(back.png) -200px -6px no-repeat;
+    width:180px;
+    height:280px;
+}

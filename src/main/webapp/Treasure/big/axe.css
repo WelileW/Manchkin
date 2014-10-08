@@ -1,0 +1,48 @@
+.Treasure.axe.sprite {
+    display:inline-block;
+    overflow:hidden;
+    background:url(axeTreasure.png) no-repeat;
+    width:180px;
+    height:280px;
+}
+
+    .Treasure.axe.card00 { background-position: -2px -2px}
+    .Treasure.axe.card01 { background-position: -2px -284px}
+    .Treasure.axe.card02 { background-position: -2px -566px}
+    .Treasure.axe.card03 { background-position: -2px -848px}
+    .Treasure.axe.card04 { background-position: -184px -2px}
+    .Treasure.axe.card05 { background-position: -184px -284px}
+    .Treasure.axe.card06 { background-position: -184px -566px}
+    .Treasure.axe.card07 { background-position: -184px -848px}
+    .Treasure.axe.card08 { background-position: -366px -2px}
+    .Treasure.axe.card09 { background-position: -366px -284px}
+    .Treasure.axe.card10 { background-position: -366px -566px}
+    .Treasure.axe.card11 { background-position: -366px -848px}
+    .Treasure.axe.card12 { background-position: -548px -2px}
+    .Treasure.axe.card13 { background-position: -548px -284px}
+    .Treasure.axe.card14 { background-position: -548px -566px}
+    .Treasure.axe.card15 { background-position: -548px -848px}
+    .Treasure.axe.card16 { background-position: -730px -2px}
+    .Treasure.axe.card17 { background-position: -730px -284px}
+    .Treasure.axe.card18 { background-position: -730px -566px}
+    .Treasure.axe.card19 { background-position: -730px -848px}
+    .Treasure.axe.card20 { background-position: -912px -2px}
+    .Treasure.axe.card21 { background-position: -1094px -2px}
+    .Treasure.axe.card22 { background-position: -1276px -2px}
+    .Treasure.axe.card23 { background-position: -1458px -2px}
+    .Treasure.axe.card24 { background-position: -1640px -2px}
+    .Treasure.axe.card25 { background-position: -912px -284px}
+    .Treasure.axe.card26 { background-position: -912px -566px}
+    .Treasure.axe.card27 { background-position: -912px -848px}
+    .Treasure.axe.card28 { background-position: -1094px -284px}
+    .Treasure.axe.card29 { background-position: -1094px -566px}
+    .Treasure.axe.card30 { background-position: -1094px -848px}
+    .Treasure.axe.card31 { background-position: -1276px -284px}
+    .Treasure.axe.card32 { background-position: -1458px -284px}
+    .Treasure.axe.card33 { background-position: -1640px -284px}
+    .Treasure.axe.card34 { background-position: -1276px -566px}
+    .Treasure.axe.card35 { background-position: -1276px -848px}
+    .Treasure.axe.card36 { background-position: -1458px -566px}
+    .Treasure.axe.card37 { background-position: -1458px -848px}
+    .Treasure.axe.card38 { background-position: -1640px -566px}
+    .Treasure.axe.card39 { background-position: -1640px -848px}

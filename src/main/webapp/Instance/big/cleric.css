@@ -1,0 +1,74 @@
+.Instance.cleric.sprite {
+    display:inline-block;
+    overflow:hidden;
+    background:url(clericInstance.png) no-repeat;
+    width:180px;
+    height:280px;
+}
+
+    .Instance.cleric.card00 { background-position: -2px -2px}
+    .Instance.cleric.card01 { background-position: -2px -284px}
+    .Instance.cleric.card02 { background-position: -2px -566px}
+    .Instance.cleric.card03 { background-position: -2px -848px}
+    .Instance.cleric.card04 { background-position: -2px -1130px}
+    .Instance.cleric.card05 { background-position: -2px -1412px}
+    .Instance.cleric.card06 { background-position: -184px -2px}
+    .Instance.cleric.card07 { background-position: -184px -284px}
+    .Instance.cleric.card08 { background-position: -184px -566px}
+    .Instance.cleric.card09 { background-position: -184px -848px}
+    .Instance.cleric.card10 { background-position: -184px -1130px}
+    .Instance.cleric.card11 { background-position: -184px -1412px}
+    .Instance.cleric.card12 { background-position: -366px -2px}
+    .Instance.cleric.card13 { background-position: -366px -284px}
+    .Instance.cleric.card14 { background-position: -366px -566px}
+    .Instance.cleric.card15 { background-position: -366px -848px}
+    .Instance.cleric.card16 { background-position: -366px -1130px}
+    .Instance.cleric.card17 { background-position: -366px -1412px}
+    .Instance.cleric.card18 { background-position: -548px -2px}
+    .Instance.cleric.card19 { background-position: -730px -2px}
+    .Instance.cleric.card20 { background-position: -912px -2px}
+    .Instance.cleric.card21 { background-position: -1094px -2px}
+    .Instance.cleric.card22 { background-position: -1276px -2px}
+    .Instance.cleric.card23 { background-position: -1458px -2px}
+    .Instance.cleric.card24 { background-position: -1640px -2px}
+    .Instance.cleric.card25 { background-position: -1822px -2px}
+    .Instance.cleric.card26 { background-position: -548px -284px}
+    .Instance.cleric.card27 { background-position: -548px -566px}
+    .Instance.cleric.card28 { background-position: -548px -848px}
+    .Instance.cleric.card29 { background-position: -548px -1130px}
+    .Instance.cleric.card30 { background-position: -548px -1412px}
+    .Instance.cleric.card31 { background-position: -730px -284px}
+    .Instance.cleric.card32 { background-position: -730px -566px}
+    .Instance.cleric.card33 { background-position: -730px -848px}
+    .Instance.cleric.card34 { background-position: -730px -1130px}
+    .Instance.cleric.card35 { background-position: -730px -1412px}
+    .Instance.cleric.card36 { background-position: -912px -284px}
+    .Instance.cleric.card37 { background-position: -1094px -284px}
+    .Instance.cleric.card38 { background-position: -1276px -284px}
+    .Instance.cleric.card39 { background-position: -1458px -284px}
+    .Instance.cleric.card40 { background-position: -1640px -284px}
+    .Instance.cleric.card41 { background-position: -1822px -284px}
+    .Instance.cleric.card42 { background-position: -912px -566px}
+    .Instance.cleric.card43 { background-position: -912px -848px}
+    .Instance.cleric.card44 { background-position: -912px -1130px}
+    .Instance.cleric.card45 { background-position: -912px -1412px}
+    .Instance.cleric.card46 { background-position: -1094px -566px}
+    .Instance.cleric.card47 { background-position: -1276px -566px}
+    .Instance.cleric.card48 { background-position: -1458px -566px}
+    .Instance.cleric.card49 { background-position: -1640px -566px}
+    .Instance.cleric.card50 { background-position: -1822px -566px}
+    .Instance.cleric.card51 { background-position: -1094px -848px}
+    .Instance.cleric.card52 { background-position: -1094px -1130px}
+    .Instance.cleric.card53 { background-position: -1094px -1412px}
+    .Instance.cleric.card54 { background-position: -1276px -848px}
+    .Instance.cleric.card55 { background-position: -1276px -1130px}
+    .Instance.cleric.card56 { background-position: -1276px -1412px}
+    .Instance.cleric.card57 { background-position: -1458px -848px}
+    .Instance.cleric.card58 { background-position: -1640px -848px}
+    .Instance.cleric.card59 { background-position: -1822px -848px}
+    .Instance.cleric.card60 { background-position: -1458px -1130px}
+    .Instance.cleric.card61 { background-position: -1458px -1412px}
+    .Instance.cleric.card62 { background-position: -1640px -1130px}
+    .Instance.cleric.card63 { background-position: -1640px -1412px}
+    .Instance.cleric.card64 { background-position: -1822px -1130px}
+    .Instance.cleric.card65 { background-position: -1822px -1412px}

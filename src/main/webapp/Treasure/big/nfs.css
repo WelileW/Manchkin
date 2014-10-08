@@ -1,0 +1,42 @@
+.Treasure.nfs.sprite {
+    display:inline-block;
+    overflow:hidden;
+    background:url(nfsTreasure.png) no-repeat;
+    width:180px;
+    height:280px;
+}
+
+    .Treasure.nfs.card00 { background-position: -2px -2px}
+    .Treasure.nfs.card01 { background-position: -184px -2px}
+    .Treasure.nfs.card02 { background-position: -366px -2px}
+    .Treasure.nfs.card03 { background-position: -548px -2px}
+    .Treasure.nfs.card04 { background-position: -730px -2px}
+    .Treasure.nfs.card05 { background-position: -2px -284px}
+    .Treasure.nfs.card06 { background-position: -184px -284px}
+    .Treasure.nfs.card07 { background-position: -366px -284px}
+    .Treasure.nfs.card08 { background-position: -548px -284px}
+    .Treasure.nfs.card09 { background-position: -730px -284px}
+    .Treasure.nfs.card10 { background-position: -2px -566px}
+    .Treasure.nfs.card11 { background-position: -184px -566px}
+    .Treasure.nfs.card12 { background-position: -366px -566px}
+    .Treasure.nfs.card13 { background-position: -548px -566px}
+    .Treasure.nfs.card14 { background-position: -730px -566px}
+    .Treasure.nfs.card15 { background-position: -2px -848px}
+    .Treasure.nfs.card16 { background-position: -184px -848px}
+    .Treasure.nfs.card17 { background-position: -366px -848px}
+    .Treasure.nfs.card18 { background-position: -548px -848px}
+    .Treasure.nfs.card19 { background-position: -730px -848px}
+    .Treasure.nfs.card20 { background-position: -2px -1130px}
+    .Treasure.nfs.card21 { background-position: -2px -1412px}
+    .Treasure.nfs.card22 { background-position: -2px -1694px}
+    .Treasure.nfs.card23 { background-position: -184px -1130px}
+    .Treasure.nfs.card24 { background-position: -184px -1412px}
+    .Treasure.nfs.card25 { background-position: -184px -1694px}
+    .Treasure.nfs.card26 { background-position: -366px -1130px}
+    .Treasure.nfs.card27 { background-position: -548px -1130px}
+    .Treasure.nfs.card28 { background-position: -730px -1130px}
+    .Treasure.nfs.card29 { background-position: -366px -1412px}
+    .Treasure.nfs.card30 { background-position: -366px -1694px}
+    .Treasure.nfs.card31 { background-position: -548px -1412px}
+    .Treasure.nfs.card32 { background-position: -548px -1694px}
+    .Treasure.nfs.card33 { background-position: -730px -1412px}

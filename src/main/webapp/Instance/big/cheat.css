@@ -1,0 +1,79 @@
+
+.Instance.cheat.sprite {
+    display:inline-block;
+    overflow:hidden;
+    background:url(cheatInstance.png) no-repeat;
+    width:180px;
+    height:280px;
+}
+
+    .Instance.cheat.card00 { background-position: -2px -2px}
+    .Instance.cheat.card01 { background-position: -2px -284px}
+    .Instance.cheat.card02 { background-position: -2px -566px}
+    .Instance.cheat.card03 { background-position: -2px -848px}
+    .Instance.cheat.card04 { background-position: -2px -1130px}
+    .Instance.cheat.card05 { background-position: -2px -1412px}
+    .Instance.cheat.card06 { background-position: -2px -1694px}
+    .Instance.cheat.card07 { background-position: -184px -2px}
+    .Instance.cheat.card08 { background-position: -366px -2px}
+    .Instance.cheat.card09 { background-position: -548px -2px}
+    .Instance.cheat.card10 { background-position: -730px -2px}
+    .Instance.cheat.card11 { background-position: -912px -2px}
+    .Instance.cheat.card12 { background-position: -1094px -2px}
+    .Instance.cheat.card13 { background-position: -1276px -2px}
+    .Instance.cheat.card14 { background-position: -1458px -2px}
+    .Instance.cheat.card15 { background-position: -1640px -2px}
+    .Instance.cheat.card16 { background-position: -184px -284px}
+    .Instance.cheat.card17 { background-position: -184px -566px}
+    .Instance.cheat.card18 { background-position: -184px -848px}
+    .Instance.cheat.card19 { background-position: -184px -1130px}
+    .Instance.cheat.card20 { background-position: -184px -1412px}
+    .Instance.cheat.card21 { background-position: -184px -1694px}
+    .Instance.cheat.card22 { background-position: -366px -284px}
+    .Instance.cheat.card23 { background-position: -548px -284px}
+    .Instance.cheat.card24 { background-position: -730px -284px}
+    .Instance.cheat.card25 { background-position: -912px -284px}
+    .Instance.cheat.card26 { background-position: -1094px -284px}
+    .Instance.cheat.card27 { background-position: -1276px -284px}
+    .Instance.cheat.card28 { background-position: -1458px -284px}
+    .Instance.cheat.card29 { background-position: -1640px -284px}
+    .Instance.cheat.card30 { background-position: -366px -566px}
+    .Instance.cheat.card31 { background-position: -366px -848px}
+    .Instance.cheat.card32 { background-position: -366px -1130px}
+    .Instance.cheat.card33 { background-position: -366px -1412px}
+    .Instance.cheat.card34 { background-position: -366px -1694px}
+    .Instance.cheat.card35 { background-position: -548px -566px}
+    .Instance.cheat.card36 { background-position: -548px -848px}
+    .Instance.cheat.card37 { background-position: -548px -1130px}
+    .Instance.cheat.card38 { background-position: -548px -1412px}
+    .Instance.cheat.card39 { background-position: -548px -1694px}
+    .Instance.cheat.card40 { background-position: -730px -566px}
+    .Instance.cheat.card41 { background-position: -912px -566px}
+    .Instance.cheat.card42 { background-position: -1094px -566px}
+    .Instance.cheat.card43 { background-position: -1276px -566px}
+    .Instance.cheat.card44 { background-position: -1458px -566px}
+    .Instance.cheat.card45 { background-position: -1640px -566px}
+    .Instance.cheat.card46 { background-position: -730px -848px}
+    .Instance.cheat.card47 { background-position: -730px -1130px}
+    .Instance.cheat.card48 { background-position: -730px -1412px}
+    .Instance.cheat.card49 { background-position: -730px -1694px}
+    .Instance.cheat.card50 { background-position: -912px -848px}
+    .Instance.cheat.card51 { background-position: -1094px -848px}
+    .Instance.cheat.card52 { background-position: -1276px -848px}
+    .Instance.cheat.card53 { background-position: -1458px -848px}
+    .Instance.cheat.card54 { background-position: -1640px -848px}
+    .Instance.cheat.card55 { background-position: -912px -1130px}
+    .Instance.cheat.card56 { background-position: -912px -1412px}
+    .Instance.cheat.card57 { background-position: -912px -1694px}
+    .Instance.cheat.card58 { background-position: -1094px -1130px}
+    .Instance.cheat.card59 { background-position: -1094px -1412px}
+    .Instance.cheat.card60 { background-position: -1094px -1694px}
+    .Instance.cheat.card61 { background-position: -1276px -1130px}
+    .Instance.cheat.card62 { background-position: -1458px -1130px}
+    .Instance.cheat.card63 { background-position: -1640px -1130px}
+    .Instance.cheat.card64 { background-position: -1276px -1412px}
+    .Instance.cheat.card65 { background-position: -1276px -1694px}
+    .Instance.cheat.card66 { background-position: -1458px -1412px}
+    .Instance.cheat.card67 { background-position: -1458px -1694px}
+    .Instance.cheat.card68 { background-position: -1640px -1412px}
+    .Instance.cheat.card69 { background-position: -1640px -1694px}

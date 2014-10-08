@@ -1,0 +1,387 @@
+
+@import url("back.css");
+@import url("Treasure/big/axe.css");
+@import url("Treasure/big/classic.css");
+@import url("Treasure/big/cleric.css");
+@import url("Treasure/big/nfs.css");
+@import url("Treasure/big/cheat.css");
+@import url("Treasure/big/ranged.css");
+
+@import url("Instance/big/axe.css");
+@import url("Instance/big/classic.css");
+@import url("Instance/big/cleric.css");
+@import url("Instance/big/nfs.css");
+@import url("Instance/big/cheat.css");
+@import url("Instance/big/ranged.css");
+
+body{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    background: #7bff84;
+    overflow-y: hidden;
+}
+*{
+     margin: 0;
+     padding: 0;
+}
+div {
+
+}
+
+#hello {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -120px;
+}
+    #hello h2{
+        margin: 19px 0;
+    }
+    #hello .init{
+        color: red;
+        visibility: hidden;
+    }
+
+/*main*/
+#main {
+    position: absolute;
+    height: calc(100% - 20px);
+    width: calc(100% - 20px);
+    margin: 5px 10px 15px;
+    clear: both;
+    }
+    .grey{
+        width: 100%;
+        background: #6cd86c;
+        overflow-y: hidden;
+    }
+    .grey:first-child{
+        border-radius: 7px 7px 0 0;
+    }
+    .grey:last-child{
+        height: calc(1.9em + 2px);
+        border-radius: 0 0 7px 7px;
+    }
+    #main #clm1,#clm2,#clm3{
+        margin: 5px;
+        height: calc(100% - 10px);
+        position: relative;
+        float: left;
+    }
+        #main .border {
+            border-radius: 7px;
+            box-shadow: 0 0 5px grey;
+            background: #a5ffa6;
+        }
+    /*clm1*/
+        #clm1 .hall{
+            text-align: center;
+            margin: 3px;
+        }
+            #clm1 .hall li{
+                padding: 1px 1em;
+                display: inline;
+                font-size: 120%;
+            }
+            #clm1 .hall li+li{
+                border-left: thin groove #333333;
+            }
+        /*chart*/
+        #chart{
+            bottom: 0;
+            position: absolute;
+            width: 100%;
+        }
+            /*div*/
+            #chart>div{
+                position: relative;
+                width: calc(100% - 12px);
+                height: calc(100% - 1.9em - 5px);
+                margin: 3px 5px 0;
+                clear: both;
+                overflow-y: auto;
+            }
+                #main #chart>div>p{
+                    position: absolute;
+                    overflow-y: auto;
+                    bottom: 2px;
+                }
+                #main #chart>p>div{
+                    margin: 1px;
+                    float: right;
+                }
+                #main #chart .end{
+                    float: left;
+                }
+            /*/div*/
+            /*p*/
+                #chart>p input{
+                    height: 1.5em;
+                    margin: 4px 0 1px 5px;
+                    float: left;
+                    width: calc(100% - 7em - 18px);
+                }
+                #chart>p button{
+                    height: 1.9em;
+                    margin: 4px 5px 1px 2px;
+                    float: left;
+                    width: 7em;
+                }
+            /*/p*/
+        /*/chart*/
+    /*/clm1*/
+    /*clm2*/
+    #clm2 .hall{
+        position: relative;
+        height: 100%;
+        width: 100%;
+        clear: both;
+    }
+        #clm2 .hall>div>p{
+            font-weight: bold;
+            padding-left: 1em;
+            font-size: 120%;
+            width: calc(100% - 1em);
+        }
+        /*room*/
+        .room{
+            overflow: hidden;
+            position: relative;
+        }
+        .room+.room{
+            border-top: thin double #333333;
+        }
+            .room>div{
+                overflow: hidden;
+                position: relative;
+            }
+            .room button{
+                /*  bottom: 15px;*/
+                margin-right: 1em;
+                padding: 1px 1em;
+                float: right;
+              /*  position: absolute;*/
+            }
+                .room>div>div{
+                    float: left;
+                    width: calc(33% - 1em);
+                    height: 100%;
+                    margin: 3px 0.5em;
+                }
+                    .room>div>div>p{
+                        font-weight: bold;
+                        margin-left: 0.5em;
+                        font-size: 100%;
+                    }
+                    .room>div>div label{
+                        margin-left: 10px;
+                    }
+        /*/room*/
+        /*create*/
+        #create{
+            position: relative;
+            margin: 10px 5px;
+            width: calc(100% - 2px);
+            height: 11.5em;
+            clear: both;
+        }
+            #create>div{
+                height: calc(100% - 1.4em);
+            }
+                #create>div>div{
+                    height: calc(100% - 2.1em);
+                }
+        /*/create*/
+        /*wait*/
+        #wait{
+            margin: 5px;
+            width: calc(100% - 2px);
+            height: calc(100% - 12em - 2px);
+        }
+            #wait>div{
+                overflow: visible;
+            }
+        /*/wait*/
+    /*/clm2*/
+    /*clm3*/
+    #clm3{
+        width: calc(33.3% - 10px);
+    }
+    /*/clm3*/
+/*/main*/
+
+/*player*/
+.player{
+    width: calc(100% - 2px);
+    height: calc(32% - 2px);
+    margin: 2px;
+    clear: both;
+}
+#clm1 .player{
+    height: calc(50% - 2px);
+}
+.player>p{
+    overflow: hidden;
+}
+    /*lvl*/
+    .player>p>div{
+        width: 7em;
+        float: left;
+        position: relative;
+    }
+    .player .theLVL{
+         width: 10px;
+    }
+    .player .lvl{
+        width: 10px;
+    }
+    .player .lvl .up,.down{
+        clear: both;
+        height: 15px;
+        width: 15px;
+        }
+    /*/lvl*/
+    /*hand*/
+    .player .hand{
+        height: calc(100% - 1.5em);
+        width: calc(50% - 2px);
+        float: left;
+        position: relative;
+    }
+    /*/hand*/
+    /*table*/
+    .player .table{
+        height: calc(100% - 1.5em);
+        width: calc(50% - 3px);
+        border-left: thin double #6cd86c;
+        float: left;
+        position: relative;
+    }
+    /*/table*/
+/*/player*/
+/*center*/
+#center{
+    position: absolute;
+    top: 33.3%;
+    margin: 2px;
+    width: calc(100% - 2px);
+    height: 33%;
+    clear: both;
+}
+    #table{
+        float: left;
+        position: relative;
+        height: 100%;
+        width: calc(100% - 93px);
+    }
+    #table+div{
+        right: 0;
+        height: 100%;
+        width: 80px;
+        margin-left: 5px;
+        position: absolute;
+    }
+    #Treasure{
+        margin: 2px;
+        clear: both;
+        position: relative;
+        top: -93px;
+        right: 60px;
+        width:180px;
+        height:280px;
+    }
+    #Instance{
+        margin: 1px;
+        clear: both;
+        position: relative;
+        top: -280px;
+        right: 60px;
+        width:180px;
+        height:280px;
+    }
+    #center button{
+        position: relative;
+        top: -186px;
+        right: 0;
+    }
+/*/center*/
+
+/*garbage*/
+#garbage {
+    position: absolute;
+    bottom: 0;
+    width: 160px;
+    height: 33%;
+    margin: 2px calc(50% - 80px);
+    clear: both;
+}
+    #garbageTreasure{
+        overflow: hidden;
+        float: left;
+        position: relative;
+        width:65px;
+        height: 100%;
+        margin: 0 5px 0 10px;
+    }
+    #garbageInstance{
+        overflow: hidden;
+        float: left;
+        position: relative;
+        width:65px;
+        height: 100%;
+        margin: 0 10px 0 5px;
+    }
+/*/garbage*/
+.game{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+#clm1 .game{
+    position: absolute;
+    height: 70%;
+    width: 100%;
+}
+
+.sprite{
+    position: absolute;
+
+    transform: all 0.5s ease-in-out;
+    -moz-transform: all 0.5s ease-in-out; 		/* Для Firefox */
+    -ms-transform: all 0.5s ease-in-out; 		/* Для IE */
+    -webkit-transform: all 0.5s ease-in-out; 	/* Для Safari, Chrome, iOS */
+    -o-transform: all 0.5s ease-in-out;         /** Opera **/
+}
+.Treasure,.Instance{
+    transform: scale(0.33) rotate(0deg);
+    -moz-transform: scale(0.33) rotate(0deg); 		/* Для Firefox */
+    -ms-transform: scale(0.33) rotate(0deg); 		/* Для IE */
+    -webkit-transform: scale(0.33) rotate(0deg); 	/* Для Safari, Chrome, iOS */
+    -o-transform: scale(0.33) rotate(0deg);         /** Opera **/
+}
+
+.Treasure.big,.Instance.big{
+    transform: scale(1);
+    -moz-transform: scale(1); 		/* Для Firefox */
+    -ms-transform: scale(1); 		/* Для IE */
+    -webkit-transform: scale(1); 	/* Для Safari, Chrome, iOS */
+    -o-transform: scale(1);         /** Opera **/
+}
+
+.Treasure.rotate,.Instance.rotate{
+    transform: scale(0.33) rotate(90deg);
+    -moz-transform: scale(0.33) rotate(90deg); 		/* Для Firefox */
+    -ms-transform: scale(0.33) rotate(90deg); 		/* Для IE */
+    -webkit-transform: scale(0.33) rotate(90deg); 	/* Для Safari, Chrome, iOS */
+    -o-transform: scale(0.33) rotate(90deg);         /** Opera **/
+}
+
+.Treasure.big.rotate,.Instance.big.rotate{
+    transform: scale(1) rotate(90deg);
+    -moz-transform: scale(1) rotate(90deg); 		/* Для Firefox */
+    -ms-transform: scale(1) rotate(90deg); 		/* Для IE */
+    -webkit-transform: scale(1) rotate(90deg); 	/* Для Safari, Chrome, iOS */
+    -o-transform: scale(1) rotate(90deg);         /** Opera **/
+}

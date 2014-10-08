@@ -1,0 +1,48 @@
+.Treasure.cheat.sprite {
+    display:inline-block;
+    overflow:hidden;
+    background:url(cheatTreasure.png) no-repeat;
+    width:180px;
+    height:280px;
+}
+
+    .Treasure.cheat.card00 { background-position: -2px -2px}
+    .Treasure.cheat.card01 { background-position: -2px -284px}
+    .Treasure.cheat.card02 { background-position: -2px -566px}
+    .Treasure.cheat.card03 { background-position: -2px -848px}
+    .Treasure.cheat.card04 { background-position: -184px -2px}
+    .Treasure.cheat.card05 { background-position: -184px -284px}
+    .Treasure.cheat.card06 { background-position: -184px -566px}
+    .Treasure.cheat.card07 { background-position: -184px -848px}
+    .Treasure.cheat.card08 { background-position: -366px -2px}
+    .Treasure.cheat.card09 { background-position: -366px -284px}
+    .Treasure.cheat.card10 { background-position: -366px -566px}
+    .Treasure.cheat.card11 { background-position: -366px -848px}
+    .Treasure.cheat.card12 { background-position: -548px -2px}
+    .Treasure.cheat.card13 { background-position: -548px -284px}
+    .Treasure.cheat.card14 { background-position: -548px -566px}
+    .Treasure.cheat.card15 { background-position: -548px -848px}
+    .Treasure.cheat.card16 { background-position: -730px -2px}
+    .Treasure.cheat.card17 { background-position: -730px -284px}
+    .Treasure.cheat.card18 { background-position: -730px -566px}
+    .Treasure.cheat.card19 { background-position: -730px -848px}
+    .Treasure.cheat.card20 { background-position: -912px -2px}
+    .Treasure.cheat.card21 { background-position: -1094px -2px}
+    .Treasure.cheat.card22 { background-position: -1276px -2px}
+    .Treasure.cheat.card23 { background-position: -1458px -2px}
+    .Treasure.cheat.card24 { background-position: -1640px -2px}
+    .Treasure.cheat.card25 { background-position: -912px -284px}
+    .Treasure.cheat.card26 { background-position: -912px -566px}
+    .Treasure.cheat.card27 { background-position: -912px -848px}
+    .Treasure.cheat.card28 { background-position: -1094px -284px}
+    .Treasure.cheat.card29 { background-position: -1094px -566px}
+    .Treasure.cheat.card30 { background-position: -1094px -848px}
+    .Treasure.cheat.card31 { background-position: -1276px -284px}
+    .Treasure.cheat.card32 { background-position: -1458px -284px}
+    .Treasure.cheat.card33 { background-position: -1640px -284px}
+    .Treasure.cheat.card34 { background-position: -1276px -566px}
+    .Treasure.cheat.card35 { background-position: -1276px -848px}
+    .Treasure.cheat.card36 { background-position: -1458px -566px}
+    .Treasure.cheat.card37 { background-position: -1458px -848px}
+    .Treasure.cheat.card38 { background-position: -1640px -566px}
+    .Treasure.cheat.card39 { background-position: -1640px -848px}

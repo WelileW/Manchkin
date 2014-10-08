@@ -1,0 +1,68 @@
+.Instance.axe.sprite {
+    display:inline-block;
+    overflow:hidden;
+    background: url(axeInstance.png) no-repeat;
+    width:180px;
+    height:280px;
+}
+
+    .Instance.axe.card00 { background-position: -2px -2px}
+    .Instance.axe.card01 { background-position: -2px -284px}
+    .Instance.axe.card02 { background-position: -2px -566px}
+    .Instance.axe.card03 { background-position: -2px -848px}
+    .Instance.axe.card04 { background-position: -2px -1130px}
+    .Instance.axe.card05 { background-position: -2px -1412px}
+    .Instance.axe.card06 { background-position: -184px -2px}
+    .Instance.axe.card07 { background-position: -184px -284px}
+    .Instance.axe.card08 { background-position: -184px -566px}
+    .Instance.axe.card09 { background-position: -184px -848px}
+    .Instance.axe.card10 { background-position: -184px -1130px}
+    .Instance.axe.card11 { background-position: -184px -1412px}
+    .Instance.axe.card12 { background-position: -366px -2px}
+    .Instance.axe.card13 { background-position: -548px -2px}
+    .Instance.axe.card14 { background-position: -730px -2px}
+    .Instance.axe.card15 { background-position: -912px -2px}
+    .Instance.axe.card16 { background-position: -1094px -2px}
+    .Instance.axe.card17 { background-position: -1276px -2px}
+    .Instance.axe.card18 { background-position: -1458px -2px}
+    .Instance.axe.card19 { background-position: -1640px -2px}
+    .Instance.axe.card20 { background-position: -366px -284px}
+    .Instance.axe.card21 { background-position: -366px -566px}
+    .Instance.axe.card22 { background-position: -366px -848px}
+    .Instance.axe.card23 { background-position: -366px -1130px}
+    .Instance.axe.card24 { background-position: -366px -1412px}
+    .Instance.axe.card25 { background-position: -548px -284px}
+    .Instance.axe.card26 { background-position: -548px -566px}
+    .Instance.axe.card27 { background-position: -548px -848px}
+    .Instance.axe.card28 { background-position: -548px -1130px}
+    .Instance.axe.card29 { background-position: -548px -1412px}
+    .Instance.axe.card30 { background-position: -730px -284px}
+    .Instance.axe.card31 { background-position: -912px -284px}
+    .Instance.axe.card32 { background-position: -1094px -284px}
+    .Instance.axe.card33 { background-position: -1276px -284px}
+    .Instance.axe.card34 { background-position: -1458px -284px}
+    .Instance.axe.card35 { background-position: -1640px -284px}
+    .Instance.axe.card36 { background-position: -730px -566px}
+    .Instance.axe.card37 { background-position: -730px -848px}
+    .Instance.axe.card38 { background-position: -730px -1130px}
+    .Instance.axe.card39 { background-position: -730px -1412px}
+    .Instance.axe.card40 { background-position: -912px -566px}
+    .Instance.axe.card41 { background-position: -1094px -566px}
+    .Instance.axe.card42 { background-position: -1276px -566px}
+    .Instance.axe.card43 { background-position: -1458px -566px}
+    .Instance.axe.card44 { background-position: -1640px -566px}
+    .Instance.axe.card45 { background-position: -912px -848px}
+    .Instance.axe.card46 { background-position: -912px -1130px}
+    .Instance.axe.card47 { background-position: -912px -1412px}
+    .Instance.axe.card48 { background-position: -1094px -848px}
+    .Instance.axe.card49 { background-position: -1094px -1130px}
+    .Instance.axe.card50 { background-position: -1094px -1412px}
+    .Instance.axe.card51 { background-position: -1276px -848px}
+    .Instance.axe.card52 { background-position: -1458px -848px}
+    .Instance.axe.card53 { background-position: -1640px -848px}
+    .Instance.axe.card54 { background-position: -1276px -1130px}
+    .Instance.axe.card55 { background-position: -1276px -1412px}
+    .Instance.axe.card56 { background-position: -1458px -1130px}
+    .Instance.axe.card57 { background-position: -1458px -1412px}
+    .Instance.axe.card58 { background-position: -1640px -1130px}
+    .Instance.axe.card59 { background-position: -1640px -1412px}

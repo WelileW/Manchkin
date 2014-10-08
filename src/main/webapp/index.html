@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script type="text/javascript" src="JavaScript/jquery.js"></script>
+    <script type="text/javascript" src="JavaScript/main.js"></script>
+    <script type="text/javascript" src="JavaScript/chart.js"></script>
+    <script type="text/javascript" src="JavaScript/game/game.js"></script>
+    <script type="text/javascript" src="JavaScript/game/player.js"></script>
+    <script type="text/javascript" src="JavaScript/room.js"></script>
+    <script type="text/javascript" src="JavaScript/game/Cards.js"></script>
+    <script type="text/javascript" src="JavaScript/game/Deck.js"></script>
+    <script type="text/javascript" src="JavaScript/game/GameAPI.js"></script>
+    <script type="text/javascript" src="JavaScript/game/move.js"></script>
+    <script type="text/javascript" src="JavaScript/game/Box.js"></script>
+    <title>Chart</title>
+</head>
+<body>
+    <div id="hello">
+        <h2>Добро пожаловать!</h2>
+        <p> Представтесь:
+            <br>
+            <input type="text" name="NikName">
+            <button name="auth">Отправить</button>
+        </p>
+        <p class="init">Имя занято</p>
+    </div>
+
+    <div id="main">
+        <div id="clm1">
+            <div class="hall">
+                <ul>
+                    <li class="mnik"></li>
+                    <li class="mright">Правила</li>
+                    <li class="mout">Выход</li>
+                </ul>
+            </div>
+            <div id="chart" class="border">
+                <div><p class="chat"></p></div>
+                <p class="grey">
+                    <input type="text" value="">
+                    <button>Отправить</button>
+                </p>
+            </div>
+            <div class="game"></div>
+        </div>
+        <div id="clm2">
+            <div class="hall">
+                <div id="create" class="border">
+                    <p class="grey">Создать новую игру<p>
+                    <div class="room">
+                        <div>
+                            <div>
+                                <p>Колоды:</p>
+                                <input type="checkbox" class="classic"><label>Классика</label><br>
+                            </div>
+                            <div>
+                                <p>Дополнения:</p>
+                                <input type="checkbox" class="axe"><label>Дикий топор</label><br>
+                                <input type="checkbox" class="clerical"><label>Клирические ошибки</label><br>
+                                <input type="checkbox" class="nfs"><label>Тяга к коняге</label><br>
+                                <input type="checkbox" class="ranged"><label>Следопуты</label><br>
+                                <input type="checkbox" class="cheat"><label>Двурукий чит</label><br>
+                            </div>
+                            <div></div>
+                        </div>
+                        <button>Создать</button>
+                    </div>
+                </div>
+                <div id="wait" class="border">
+                    <p class="grey">Ожидают игроков</p>
+                    <div></div>
+                </div>
+            </div>
+            <div class="game">
+                <div id="center">
+                    <div id="table" class="border"></div>
+                    <div>
+                        <div id="Treasure" class="Treasure"></div>
+                        <button class="Treasure big">Mix</button>
+                        <button class="Instance big">Mix</button>
+                        <div id="Instance" class="Instance"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="clm3">
+            <div class="game">
+                <div id="garbage" class="border">
+                    <div id="garbageTreasure"></div>
+                    <div id="garbageInstance"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

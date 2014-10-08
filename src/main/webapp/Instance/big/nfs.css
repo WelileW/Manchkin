@@ -1,0 +1,86 @@
+.Instance.nfs.sprite {
+    display:inline-block;
+    overflow:hidden;
+    background:url(nfsInstance.png) no-repeat;
+    width:180px;
+    height:280px;
+}
+
+    .Instance.nfs.card00 { background-position: -2px -2px}
+    .Instance.nfs.card01 { background-position: -184px -2px}
+    .Instance.nfs.card02 { background-position: -366px -2px}
+    .Instance.nfs.card03 { background-position: -548px -2px}
+    .Instance.nfs.card04 { background-position: -730px -2px}
+    .Instance.nfs.card05 { background-position: -912px -2px}
+    .Instance.nfs.card06 { background-position: -2px -284px}
+    .Instance.nfs.card07 { background-position: -184px -284px}
+    .Instance.nfs.card08 { background-position: -366px -284px}
+    .Instance.nfs.card09 { background-position: -548px -284px}
+    .Instance.nfs.card10 { background-position: -730px -284px}
+    .Instance.nfs.card11 { background-position: -912px -284px}
+    .Instance.nfs.card12 { background-position: -2px -566px}
+    .Instance.nfs.card13 { background-position: -184px -566px}
+    .Instance.nfs.card14 { background-position: -366px -566px}
+    .Instance.nfs.card15 { background-position: -548px -566px}
+    .Instance.nfs.card16 { background-position: -730px -566px}
+    .Instance.nfs.card17 { background-position: -912px -566px}
+    .Instance.nfs.card18 { background-position: -2px -848px}
+    .Instance.nfs.card19 { background-position: -184px -848px}
+    .Instance.nfs.card20 { background-position: -366px -848px}
+    .Instance.nfs.card21 { background-position: -548px -848px}
+    .Instance.nfs.card22 { background-position: -730px -848px}
+    .Instance.nfs.card23 { background-position: -912px -848px}
+    .Instance.nfs.card24 { background-position: -2px -1130px}
+    .Instance.nfs.card25 { background-position: -184px -1130px}
+    .Instance.nfs.card26 { background-position: -366px -1130px}
+    .Instance.nfs.card27 { background-position: -548px -1130px}
+    .Instance.nfs.card28 { background-position: -730px -1130px}
+    .Instance.nfs.card29 { background-position: -912px -1130px}
+    .Instance.nfs.card30 { background-position: -2px -1412px}
+    .Instance.nfs.card31 { background-position: -184px -1412px}
+    .Instance.nfs.card32 { background-position: -366px -1412px}
+    .Instance.nfs.card33 { background-position: -548px -1412px}
+    .Instance.nfs.card34 { background-position: -730px -1412px}
+    .Instance.nfs.card35 { background-position: -912px -1412px}
+    .Instance.nfs.card36 { background-position: -2px -1694px}
+    .Instance.nfs.card37 { background-position: -184px -1694px}
+    .Instance.nfs.card38 { background-position: -366px -1694px}
+    .Instance.nfs.card39 { background-position: -548px -1694px}
+    .Instance.nfs.card40 { background-position: -730px -1694px}
+    .Instance.nfs.card41 { background-position: -912px -1694px}
+    .Instance.nfs.card42 { background-position: -2px -1976px}
+    .Instance.nfs.card43 { background-position: -184px -1976px}
+    .Instance.nfs.card44 { background-position: -366px -1976px}
+    .Instance.nfs.card45 { background-position: -548px -1976px}
+    .Instance.nfs.card46 { background-position: -730px -1976px}
+    .Instance.nfs.card47 { background-position: -912px -1976px}
+    .Instance.nfs.card48 { background-position: -2px -2258px}
+    .Instance.nfs.card49 { background-position: -184px -2258px}
+    .Instance.nfs.card50 { background-position: -366px -2258px}
+    .Instance.nfs.card51 { background-position: -548px -2258px}
+    .Instance.nfs.card52 { background-position: -730px -2258px}
+    .Instance.nfs.card53 { background-position: -912px -2258px}
+    .Instance.nfs.card54 { background-position: -2px -2540px}
+    .Instance.nfs.card55 { background-position: -2px -2822px}
+    .Instance.nfs.card56 { background-position: -2px -3104px}
+    .Instance.nfs.card57 { background-position: -2px -3386px}
+    .Instance.nfs.card58 { background-position: -184px -2540px}
+    .Instance.nfs.card59 { background-position: -366px -2540px}
+    .Instance.nfs.card60 { background-position: -548px -2540px}
+    .Instance.nfs.card61 { background-position: -730px -2540px}
+    .Instance.nfs.card62 { background-position: -912px -2540px}
+    .Instance.nfs.card63 { background-position: -184px -2822px}
+    .Instance.nfs.card64 { background-position: -184px -3104px}
+    .Instance.nfs.card65 { background-position: -184px -3386px}
+    .Instance.nfs.card66 { background-position: -366px -2822px}
+    .Instance.nfs.card67 { background-position: -366px -3104px}
+    .Instance.nfs.card68 { background-position: -366px -3386px}
+    .Instance.nfs.card69 { background-position: -548px -2822px}
+    .Instance.nfs.card70 { background-position: -730px -2822px}
+    .Instance.nfs.card71 { background-position: -912px -2822px}
+    .Instance.nfs.card72 { background-position: -548px -3104px}
+    .Instance.nfs.card73 { background-position: -548px -3386px}
+    .Instance.nfs.card74 { background-position: -730px -3104px}
+    .Instance.nfs.card75 { background-position: -730px -3386px}
+    .Instance.nfs.card76 { background-position: -912px -3104px}
+    .Instance.nfs.card77 { background-position: -912px -3386px}

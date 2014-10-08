@@ -1,0 +1,54 @@
+.Treasure.cleric.sprite {
+    display:inline-block;
+    overflow:hidden;
+    background:url(clericTreasure.png) no-repeat;
+    width:180px;
+    height:280px;
+}
+
+    .Treasure.cleric.card00 { background-position: -2px -2px}
+    .Treasure.cleric.card01 { background-position: -184px -2px}
+    .Treasure.cleric.card02 { background-position: -366px -2px}
+    .Treasure.cleric.card03 { background-position: -548px -2px}
+    .Treasure.cleric.card04 { background-position: -730px -2px}
+    .Treasure.cleric.card05 { background-position: -912px -2px}
+    .Treasure.cleric.card06 { background-position: -1094px -2px}
+    .Treasure.cleric.card07 { background-position: -2px -284px}
+    .Treasure.cleric.card08 { background-position: -184px -284px}
+    .Treasure.cleric.card09 { background-position: -366px -284px}
+    .Treasure.cleric.card10 { background-position: -548px -284px}
+    .Treasure.cleric.card11 { background-position: -730px -284px}
+    .Treasure.cleric.card12 { background-position: -912px -284px}
+    .Treasure.cleric.card13 { background-position: -1094px -284px}
+    .Treasure.cleric.card14 { background-position: -2px -566px}
+    .Treasure.cleric.card15 { background-position: -2px -848px}
+    .Treasure.cleric.card16 { background-position: -2px -1130px}
+    .Treasure.cleric.card17 { background-position: -2px -1412px}
+    .Treasure.cleric.card18 { background-position: -2px -1694px}
+    .Treasure.cleric.card19 { background-position: -184px -566px}
+    .Treasure.cleric.card20 { background-position: -366px -566px}
+    .Treasure.cleric.card21 { background-position: -548px -566px}
+    .Treasure.cleric.card22 { background-position: -730px -566px}
+    .Treasure.cleric.card23 { background-position: -912px -566px}
+    .Treasure.cleric.card24 { background-position: -1094px -566px}
+    .Treasure.cleric.card25 { background-position: -184px -848px}
+    .Treasure.cleric.card26 { background-position: -184px -1130px}
+    .Treasure.cleric.card27 { background-position: -184px -1412px}
+    .Treasure.cleric.card28 { background-position: -184px -1694px}
+    .Treasure.cleric.card29 { background-position: -366px -848px}
+    .Treasure.cleric.card30 { background-position: -548px -848px}
+    .Treasure.cleric.card31 { background-position: -730px -848px}
+    .Treasure.cleric.card32 { background-position: -912px -848px}
+    .Treasure.cleric.card33 { background-position: -1094px -848px}
+    .Treasure.cleric.card34 { background-position: -366px -1130px}
+    .Treasure.cleric.card35 { background-position: -366px -1412px}
+    .Treasure.cleric.card36 { background-position: -366px -1694px}
+    .Treasure.cleric.card37 { background-position: -548px -1130px}
+    .Treasure.cleric.card38 { background-position: -548px -1412px}
+    .Treasure.cleric.card39 { background-position: -548px -1694px}
+    .Treasure.cleric.card40 { background-position: -730px -1130px}
+    .Treasure.cleric.card41 { background-position: -912px -1130px}
+    .Treasure.cleric.card42 { background-position: -1094px -1130px}
+    .Treasure.cleric.card43 { background-position: -730px -1412px}
+    .Treasure.cleric.card44 { background-position: -730px -1694px}
+    .Treasure.cleric.card45 { background-position: -912px -1412px}
